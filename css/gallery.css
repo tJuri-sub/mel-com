@@ -1,0 +1,156 @@
+body{
+    background: url(../img/bg-proj.jpg) no-repeat fixed center;
+    background-size: cover ;
+}
+
+/* sum1 */
+
+.label-sum1{
+    text-align: center;
+}
+
+.label-sum1 a{
+    color: #000;
+}
+
+.label-sum1 a:hover{
+    cursor: pointer;
+    color: #797979;
+}
+
+.sum1{
+    margin-bottom: 30px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.genshin{
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+
+}
+
+.genshin th{
+    background: #39850f;
+    border: #000 solid 2px;
+    color: #fff;
+    text-align: center;
+    font-size: 1.4rem;
+    padding: 5px 0px;
+}
+
+.genshin td{
+    background: #fff;
+    border: #000 solid 2px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.char{
+    width:20%;
+}
+
+.char img{
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+
+.vision{
+    width:20%;
+}
+
+.vision img{
+    width: 100%;
+    height: 100%;
+}
+
+/* sum2 */
+
+.sum2{
+    margin: 30px 0px;
+}
+
+.paper{
+    background: #fff;
+    width: 70%;
+    margin: auto;
+    padding: 2rem 4rem;
+}
+
+.info{
+    display: flex;
+    justify-content:space-between; 
+}
+
+.flex1{
+    display: flex;
+    justify-content: flex-start;
+    width: 30%;  
+}
+
+
+.flex2{  
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+
+.image img{
+    width: 100%;
+}
+
+.detail-sum2{ 
+    width: 100%;  
+}
+
+.detail-sum2 h1{
+    font-size: 2rem;
+    margin-top: 0px;
+}
+
+.no-designs{
+    border: none;
+}
+
+.no-designs td{
+    padding: 10px;
+}
+
+.text{
+    text-align: justify;
+    margin: 30px 0px;
+    line-height: 30px;
+}
+
+.socials-pic{
+    display: flex;
+}
+
+.media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.media img{
+    width: 30%;
+}
+
+.social-media{
+    margin-left: 10px;
+}
+
+/* sum3 */
+
+.sum3{
+    display: flex;
+    margin: auto;
+    margin: 20px;
+}

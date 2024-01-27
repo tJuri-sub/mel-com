@@ -1,0 +1,45 @@
+
+.bg {
+	display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+}
+
+
+h1 {
+	color:black; 
+	margin-top: -150px;
+	margin-left:200px;
+}
+
+.dars {
+	color:black;
+	margin-left: 35%;
+}
+
+.maky {
+	color:black;
+	margin-left: 90%;
+	margin-top: -200px;
+}
+	
+.ydan {
+	margin-left: -900%;
+	margin-top: 170%; 
+}
+.humt{
+	margin-left: -880%;
+	margin-top: 100%;
+}
+.cedric{
+	margin-left: -480%;
+	margin-top: -300%;
+}
+.link{
+	margin-top: -340%;
+	margin-left: -150%;
+}
+
+	
+	
